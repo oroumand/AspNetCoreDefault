@@ -21,6 +21,7 @@ namespace AspNetCoreDefault.Controllers
         public IActionResult Index()
         {
             return View();
+            int a = "Alireza"
         }
 
         public IActionResult Privacy()
